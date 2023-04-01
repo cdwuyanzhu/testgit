@@ -12,5 +12,6 @@ public class TestGit002 {
         System.out.println("我是masterTestGit006");
         System.out.println("我是slaveTestGit006--->2");
         System.out.println("push--->testgit");
+        System.out.println("pull--->testgit");
     }
 }
