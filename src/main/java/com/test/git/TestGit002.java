@@ -5,5 +5,6 @@ public class TestGit002 {
         System.out.println("我是TestGit002");
         System.out.println("我是TestGit003");
         System.out.println("我是TestGit004");
+        System.out.println("我是TestGit005");
     }
 }
